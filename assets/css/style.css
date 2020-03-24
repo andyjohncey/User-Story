@@ -185,6 +185,13 @@ h1 {
   font-size: 40px;
 }
 
+.centered {
+  color: whitesmoke;
+  width: 100%;
+  border: #dddddd;
+  margin: 0;
+  padding: 0;
+}
 /* .section-container {
   background-image: url("../intersection.jpg");
   background-repeat: no-repeat;
@@ -202,6 +209,15 @@ h1 {
   border: solid thin black;
   padding: 20px;
   border: 20px;
+}
+.portfolio-container {
+  border-color: #dddddd;
+  border: solid thin black;
+  padding: 20px;
+  border: 20px;
+  /* background-image: url("../images/intersection.jpg");
+  background-repeat: repeat;
+  background-position: cover; */
 }
 
 @media screen and (max-width: 600px) {
